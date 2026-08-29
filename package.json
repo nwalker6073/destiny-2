@@ -1,0 +1,6 @@
+{
+  "name": "lib-app8",
+  "version": "1.0.7",
+  "private": true,
+  "scripts": {"start": "node ."}
+}
